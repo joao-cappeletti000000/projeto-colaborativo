@@ -1,2 +1,3 @@
 # projeto-colaborativo
-README.md
+calaboradores:
+joao cappeletti
