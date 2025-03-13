@@ -1,2 +1,3 @@
 # projeto-colaborativo
-Colaboradores: Joao cappeletti
+Colaboradores:
+Joao cappeletti
